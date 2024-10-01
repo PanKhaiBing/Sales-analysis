@@ -25,4 +25,6 @@ Questions answered:
 5. What is the correlation between price, sales and quantity?
 - Correlation of the price to sales and quantity
 
+Dataset for this project is obtained from Kaggle. 
+- https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
 
